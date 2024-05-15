@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@200&display=swap');
+
+
+body{
+    background-image: url(https://assets-global.website-files.com/6492aaa7c29446a3640dc5c7/6492aaa7c29446a3640dca4d_iMeDDXiFswg7aGucH-Hwn2MphhGFXo2H4eF-g0NgWH6QpufkKHl7zIjjTZyNwiJIuYaWGP0bIMpYjI7-zsFKzDWEdEidzYiahJ9EkTjTbQBnFOZE8Ry3GhRYkTndhI3WwtsSTs0LYjOwfabhKQ.jpeg);
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Rubik', sans-serif;
+}
+
+input{
+    background-color:rgba(0, 0, 0, 0.9);
+    padding: 1%;
+    margin: 1%;
+    color: white;
+}
+
+a{
+    color: wheat;
+}
+
+a:hover{
+    color: violet;
+}
+
+.loginbox{
+    border-radius: 5%;
+    margin: 25%;
+    background-color:rgba(0, 0, 0, 0.5);
+    padding: 5%;
+    font-family: 'Genos', sans-serif;
+}
+
